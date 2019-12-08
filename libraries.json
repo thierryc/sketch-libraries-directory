@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "title": "sketch-lib-0001",
+    "description": "",
+    "name": "sketch-lib-0001",
+    "owner": "thierryc",
+    "appcast": "https://raw.githubusercontent.com/thierryc/sketch-lib-0001/master/.appcast.xml",
+    "homepage": "https://github.com/thierryc/sketch-lib-0001#readme"
+  }
+]
